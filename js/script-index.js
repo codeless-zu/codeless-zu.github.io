@@ -1,0 +1,1 @@
+var search-button = document.querySelector('#search-button');search-button.addEventListener('click', function(event) {window.location.href = 'https://www.google.com/search?q=color%20piker';});
